@@ -1,5 +1,5 @@
 # jammerNotify
-Bash script to notify me of people jamming on jammr
+Bash script to get notified on your phone when people are jamming on jammr
 
 Discussion thread:
 https://forum.jammr.net/topic/1342/
